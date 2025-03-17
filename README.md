@@ -41,33 +41,30 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+#### Variable Fonts
+Unlike traditional fonts, variable fonts store all weight, width, and style variations in one file. They work with "axes," which are design parameters like weight, width, and optical size, and "instances," which are specific combinations of values on those axes. Designers can adjust these variations using CSS, creating diverse styles without multiple files. Variable fonts are ideal for responsive design, web applications, animation, print and digital design, and accessibility.
 
-To see how you can add code snippets, see below:
+Examples of Axes: 
+- Weight (light to bold)
+- Width (spacing)
+- Optical Size (optimize readability for different sizes and applications)   
+- Slant (italic or oblique variations) 
+- Custom Axes (unique variations)
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Benefits of Variable Fonts:
+- Smaller Files: One file holds many styles.
+- Faster Pages: Fewer HTTP requests.
+- Design Flexibility: More creative control.
+- Readability: Optimized for all screens.
+- Simplicity: Easier management of many styles.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+<strong>NOTE:</strong> While the Figtree typeface folder was provided for this project, I opted to use Google Fonts to apply the styles. I'd like to do more research on variable fonts before I start throwing lines of code I don't understand into my projects.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- I'm going to:
+  - Dive deeper into variable fonts. 
+  - Learn more advanced git concepts and commands such as ```merge``` and ```rebase```. 
 
 ### Useful resources
 
