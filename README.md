@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+![Design preview for the Blog preview card coding challenge](./assets/images/blog-preview-card-screenshot.jpg)
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -15,7 +15,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -41,6 +40,8 @@ Users should be able to:
 
 ### What I learned
 
+While I chose not to utilize the font folder that came with the starter files, I still decided to learn more about them. I'm working on improving my time management when it comes to researching topics and concepts I don't know. I find I spend more time looking things up than I do actually coding the project. For example, this project took me 2 hours and 44 minutes to complete and of that, I spent 30-40 minutes actually coding. 
+
 #### Variable Fonts
 Unlike traditional fonts, variable fonts store all weight, width, and style variations in one file. They work with "axes," which are design parameters like weight, width, and optical size, and "instances," which are specific combinations of values on those axes. Designers can adjust these variations using CSS, creating diverse styles without multiple files. Variable fonts are ideal for responsive design, web applications, animation, print and digital design, and accessibility.
 
@@ -58,31 +59,20 @@ Benefits of Variable Fonts:
 - Readability: Optimized for all screens.
 - Simplicity: Easier management of many styles.
 
-<strong>NOTE:</strong> While the Figtree typeface folder was provided for this project, I opted to use Google Fonts to apply the styles. I'd like to do more research on variable fonts before I start throwing lines of code I don't understand into my projects.
-
 ### Continued development
 
 - I'm going to:
-  - Dive deeper into variable fonts. 
+  - Explore more of my curiousity into variable fonts. 
   - Learn more advanced git concepts and commands such as ```merge``` and ```rebase```. 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Variable fonts](https://web.dev/articles/variable-fonts) - This article helped me understand variable fonts. It has lots of examples, videos, and diagrams on the topic. I recommend someone give it a read who wants to learn more about variable fonts.
+- [Best practices for fonts](https://web.dev/articles/font-best-practices) - This article was great at teaching me the font lifecycle. It discusses font loading, font delivery, and font rendering and best practices for each.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [Kelsie Paige](https://kelsiepaige.github.io/portfolio/)
+- Frontend Mentor - [@KelsiePaige](https://www.frontendmentor.io/profile/KelsiePaige)
+- Twitter - [@Kelsie_Codes](https://x.com/Kelsie_Codes)
+- LinkedIn - [Kelsie Paige](https://www.linkedin.com/in/kelsie-paige/)
